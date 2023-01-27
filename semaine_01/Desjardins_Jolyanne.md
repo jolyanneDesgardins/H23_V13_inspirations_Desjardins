@@ -1,7 +1,7 @@
 # Desjardins Jolyanne 
 ## photo
 ![photo de jolyanne](jolyanne_desjardins.jpg)
-## Intéret dans le multimédia 
+## Intérets dans le multimédia 
 Ce que j'aime du multimédia c'est qu'on utilise plusieurs types de média pour créer des projets ou des oeuvres.Aussi ce que j'aime dans le multimédia c'est aussi l'aspect du travail d'équipe et de collaboration pour faire des projets. Aussi j'ai un intéret pour l'aspect technique et créatif.
 
 ## Autres intérets ou aspects
