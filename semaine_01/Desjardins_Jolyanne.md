@@ -1,4 +1,4 @@
 # Desjardins Jolyanne 
-![photo de jolyanne](jolyannedesjardins.jpg)
+![photo de jolyanne](jolyanne_desjardins.jpg)
 
 
