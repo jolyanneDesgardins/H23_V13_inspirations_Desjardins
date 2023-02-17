@@ -1,5 +1,9 @@
 #  Expositio Bian 
 Lieu d'exposition: Arsenal art contemporain
+
+![](media/groupe_photos.png)
+2ème personne à partir de la gauche
+
 Exposition temporaire
 Date de visite: 3 février 2023
 ## Nature Morte 7
