@@ -16,6 +16,8 @@ Date de visite: 3 février 2023
 ## Année de creation: 2022
 ## Description de l'oeuvre
 ![](media/cartel.png)
+
+photo par Kristy Moussally
 ## type d'instalation : contemplative
 ## Mise en espace
 photo croquit et texte
