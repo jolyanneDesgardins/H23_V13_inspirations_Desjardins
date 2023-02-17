@@ -21,8 +21,10 @@ photo par Kristy Moussally
 ## type d'instalation : contemplative
 ## Mise en espace
 photo croquit et texte
-L'oeuvre est situé par terre proche d'un mur. Elle prend pas beaucoup de place.L'oeuvre est soutenu par des cordes qui la fait suspendre du plafond 
+L'oeuvre est situé par terre proche d'un mur. Elle prend pas beaucoup de place.L'oeuvre est soutenu par des cordes qui la fait suspendre du plafond.
+
 ![](media/oeuvre_plafond.png)
+
 ## Composantes et techniques
 - sculpture 
 - 
