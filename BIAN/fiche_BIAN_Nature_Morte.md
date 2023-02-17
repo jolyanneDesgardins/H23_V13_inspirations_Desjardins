@@ -25,7 +25,7 @@ L'oeuvre est situé par terre proche d'un mur. Elle prend pas beaucoup de place.
 
 ![](media/oeuvre_plafond.png)
 
-Malgré le fait qu'il y a une autre oeuvre plus imposante derrière elle, elle n'est pas effacer, on l'a remarque quand même bien. De plus, elle est relativement éloigner de celle ci
+Malgré le fait qu'il y a une autre oeuvre plus imposante derrière elle, elle n'est pas effacer, on l'a remarque quand même bien, car malgré le fait qu'elles sont proche l'une de l'autre, on va s'intéroger a pourquoi il y a des écran par terre, donc le fait qu'elle soit devant l'oeuvre : Tomorrow's Borrowed-scenery fait en sorte qu'on va s'arreter par elle devant à cause qu'on s'intéroge sur ce qu'elle représente. 
 
 ## Composantes et techniques
 - sculpture 
