@@ -24,6 +24,7 @@ photo croquit et texte
 L'oeuvre est situé par terre proche d'un mur. Elle prend pas beaucoup de place.L'oeuvre est soutenu par des cordes qui la fait suspendre du plafond.
 
 ![](media/oeuvre_plafond.png)
+
 Malgré le fait qu'il y a une autre oeuvre plus imposante derrière elle, elle n'est pas effacer, on l'a remarque quand même bien. De plus, elle est relativement éloigner de celle ci
 
 ## Composantes et techniques
