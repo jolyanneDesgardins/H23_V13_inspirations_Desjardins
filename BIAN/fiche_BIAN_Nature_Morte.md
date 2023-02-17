@@ -21,6 +21,9 @@ L'oeuvre est situé par terre proche d'un mur. Elle prend pas beaucoup de place.
 animation des écrans
 ## Éléments nécessaires à la mise en exposition
 - fil et extention
+
+![](media/oeuvre_files.png)
+
 - écran
 
 ![](media/oeuvre_ecran.png)
