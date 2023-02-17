@@ -3,7 +3,7 @@ Lieu d'exposition: Arsenal art contemporain
 Exposition temporaire
 Date de visite: 3 février 2023
 ## Nature Morte 7
-![](oeuvre_nature_bian.png)
+![](media/oeuvre_nature_bian.png)
 
 # Nom de l'artiste: Baron Lanteigne
 ## Année de creation:
