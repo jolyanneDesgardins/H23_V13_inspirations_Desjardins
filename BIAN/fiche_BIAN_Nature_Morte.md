@@ -1,4 +1,4 @@
-#  Expositio Bian 
+#  Exposition Bian 
 Lieu d'exposition: Arsenal art contemporain
 
 ![](media/groupe_photos.png)
@@ -18,6 +18,7 @@ Date de visite: 3 février 2023
 ## Mise en espace
 photo croquit et texte
 L'oeuvre est situé par terre proche d'un mur. Elle prend pas beaucoup de place. l'oeuvre est soutenu par des cordes qui la fait suspendre du plafond 
+![](media/oeuvre_plafond.png)
 ## Composantes et techniques
 - sculpture 
 - 
