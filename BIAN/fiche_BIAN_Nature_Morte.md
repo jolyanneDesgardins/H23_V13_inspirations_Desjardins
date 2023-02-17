@@ -7,7 +7,7 @@ Date de visite: 3 février 2023
 ![](media/derriere.png)
 
 # Nom de l'artiste: Baron Lanteigne
-## Année de creation:
+## Année de creation: 2022
 ## Description de l'oeuvre
 image
 ## type d'instalation : contemplative
