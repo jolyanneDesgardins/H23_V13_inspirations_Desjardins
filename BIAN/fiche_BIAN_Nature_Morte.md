@@ -46,7 +46,7 @@ le visiteur peut facilement faire le tour de l'oeuvre, ce qui est particulièrem
 ## Se que j'ai aimé à propos de l'oeuvre
 Un des première chose pour laquelle j'ai aimé l'oeuvre ces un peu le mystère. Quand on est loin de l'oeuvre on se demande c'est quoi qui est accrocher au plafond et qu'est ce qu'il y a par terre. C'est la que sa ma intriguer et que j'ai voulu savoir s'était quoi, et la j'ai vu que sur les télés il y avait une animation de nature, qui pour être honnête était simple mais vraiment belle.
 
-![](media/derrier.png)
+![](media/derriere.png)
 
 ##  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
