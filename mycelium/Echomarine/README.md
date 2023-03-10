@@ -8,4 +8,4 @@ Le lien avec mycélium est la connection entre la technologie l'humain et la nat
 
 #### Schémas de plantation du projet
 
-![Schémas de plantation du projet Échomarine](medias/schemas_de_plantation_echomarine.jpg)
+![Schémas de plantation du projet Échomarine](medias/schemas_plantation_echomarine.png)
