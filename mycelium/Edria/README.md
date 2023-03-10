@@ -8,4 +8,4 @@ Elwin Durand, Loic Delorme,Dominic Roberts,Gabriel Leblanc, Meryem Berbiche, Jea
 Le mélange avec la technologie et la nature pour crée une oeuvre.
 
 #### Schémas de plantation
-![Schémas de plantation de l'équipe d'Edria](media/schema_de_plantiation_edria.jpg)
+![Schémas de plantation de l'équipe d'Edria](media/schema_de_plantiation_edria.png)
