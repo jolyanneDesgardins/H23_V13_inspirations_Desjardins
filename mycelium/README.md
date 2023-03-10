@@ -13,7 +13,7 @@
 - Conception Sonore 
 - Traitement Vidéo 
 - Programation/web
-### Technique inconu
+### Technique inconnu
 
 ### Ordre de préférence 
 1- Echomarine
