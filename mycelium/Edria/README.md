@@ -6,3 +6,6 @@ Elwin Durand, Loic Delorme,Dominic Roberts,Gabriel Leblanc, Meryem Berbiche, Jea
 #### Lien avec Mycélium 
 
 Le mélange avec la technologie et la nature pour crée une oeuvre.
+
+#### Schémas de plantation
+![Schémas de plantation de l'équipe d'Edria](medias/schemas_de_plantation_edria.png)
