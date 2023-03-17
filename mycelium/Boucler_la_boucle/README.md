@@ -6,5 +6,5 @@
 -  Créateurs 
 -  Schémas de plantation 
 -  Photos de l'oeuvre en cours
-- ### un dossier qui contient les medias 
+- ### Un dossier qui contient les medias 
 
