@@ -9,3 +9,6 @@ Mycélium est comme un concepte de cohabitation avec la nature et Zodie -Gal est
 ![Schémas de plantation de zodie-gal](medias/schemas_de_plantation_zodie-gal.png)
 
 > Source: [Github de l'équipe de zodie-gal](https://github.com/tim-montmorency/66B-modele_de_projet)
+
+#### Photos du projet en cours 
+
