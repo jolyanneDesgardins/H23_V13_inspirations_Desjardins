@@ -6,7 +6,7 @@
 -  Créateurs 
 -  Schémas de plantation 
 -  Photos de l'oeuvre en cours
--  -Référence
+-  Référence
 - ### Un dossier qui contient les medias 
 -  ### Réference 
 
