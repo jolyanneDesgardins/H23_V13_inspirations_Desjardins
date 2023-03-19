@@ -12,4 +12,4 @@ Sébastien Reilly,Sabrina Laforest, Alexandre Danielet Maxime Des Lauriers
 ### Image de l'instralation en cours 
 ![Schemas de plantation de Nexum](medias/nexum_installation_lumiere_speaker.jpg)
 
-![Schemas de plantation de Nexum](medias/nexum_installation_lumiere.jpg)
+![Schemas de plantation de Nexum](medias/nexum_instalation_lumiere.jpg)
