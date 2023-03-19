@@ -10,4 +10,6 @@ Sébastien Reilly,Sabrina Laforest, Alexandre Danielet Maxime Des Lauriers
 >  source :[Gitub de l'équipe Nexum](https://github.com/Boucle-RDDL/Nexum/tree/main/docs)
 
 ### Image de l'instralation en cours 
-![Schemas de plantation de Nexum](medias/nexum_)
+![Schemas de plantation de Nexum](medias/nexum_installation_lumiere_speaker.jpg)
+
+![Schemas de plantation de Nexum](medias/nexum_installation_lumiere.jpg)
