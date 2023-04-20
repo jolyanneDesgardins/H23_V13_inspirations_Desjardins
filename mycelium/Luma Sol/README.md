@@ -1,6 +1,6 @@
 ## Luma Sol 
 
-##Présenter par 
+## Présenter par 
 Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson 
 
 ## Lien avec Mycélium 
