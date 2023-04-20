@@ -13,6 +13,8 @@ Le mélange avec la technologie et la nature pour crée une oeuvre.
 
 
 ## Photo du projet en cours
+![Schémas de plantation de l'équipe d'Edria](medias/edria_instalation_milieu.jpg)
+![Schémas de plantation de l'équipe d'Edria](medias/edria_installation_intéraction.jpg)
 ## Référence
 
 
