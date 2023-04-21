@@ -34,7 +34,7 @@ Le visiteur est invité a prendre place sur l'un des banc pour être confortable
 
 
 ## Salle 2
-### mise en space
+### mise en espace
 <img src="media/salle_2_mission_cosmodome_2.jpg" width="500px"></img>
 >  image du dispositif source :[article]()
 
