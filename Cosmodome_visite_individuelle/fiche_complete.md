@@ -19,6 +19,9 @@ Les missions sont des dispositif intéractifs et immersif. La plupart des salles
 ## Fonction du dispositif 
 La mission vision virtuelle est diviser en plusieur salle et chacune a son propre dispositif que se sois une vidéo ou un jeu .
 Les vidéos pour la plupart sert a nous informée. Par exemple dans la première salle un vidéo d'introduction nous sert à nous mettre en contexte, nous parler du début de la conquete de l'espace. Dans la seconde salle , on nous présente encore à l'aide de vidéo les planetes et autre astre de notre système solaire qui vont nous être utile pour la suite de l'aventure. Ensuite pour les salles avec des dispositif intéractif une vidéo est toujours là pour nous expliquer le but du jeu comment le dipotif fonction et comment on joue.
+## Mise en valeur et espérience vécue
+
+### Salle 1
 
 
 
