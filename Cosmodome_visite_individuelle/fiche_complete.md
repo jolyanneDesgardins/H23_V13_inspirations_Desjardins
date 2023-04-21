@@ -1,4 +1,4 @@
-### Mission Virtuel : Aux frontières du cosmos
+# Mission Virtuel : Aux frontières du cosmos
 
 ## Lieu de l'exposition
 Le Cosmodome à Laval
@@ -19,15 +19,30 @@ Les missions sont des dispositif intéractifs et immersif. La plupart des salles
 ## Fonction du dispositif 
 La mission vision virtuelle est diviser en plusieur salle et chacune a son propre dispositif que se sois une vidéo ou un jeu .
 Les vidéos pour la plupart sert a nous informée. Par exemple dans la première salle un vidéo d'introduction nous sert à nous mettre en contexte, nous parler du début de la conquete de l'espace. Dans la seconde salle , on nous présente encore à l'aide de vidéo les planetes et autre astre de notre système solaire qui vont nous être utile pour la suite de l'aventure. Ensuite pour les salles avec des dispositif intéractif une vidéo est toujours là pour nous expliquer le but du jeu comment le dipotif fonction et comment on joue.
-## Mise en valeur et espérience vécue
-### Salle 1 
+# Mise en valeur et espérience vécue
+## Salle 1 
+### Mise en espace
+photo
+
+La première salle est composer d'un plancher sur elever par rapport mur qui sert de suport a la projection. Il y a aussi 2 bancs pour s'asseoir. 
+
+### Élement nécessaire à la mise en exposition
+Avoir un haut plafont pour etre en mesure d'y installer un plancher sur élever ou  les visiteurs vont pouvoir s'instaler pour voir le dispositif.
+### Expérience vécue
+Le visiteur est invité a prendre place sur l'un des banc pour être confortable toute le long de la vidéo. La vidéo porte sur le début de l'exploration de l'espace. Les premiere mission et ce qu'elles ont eu pour but d'accomplir 
 
 
 
-### Salle 2
 
+## Salle 2
+### mise en space
 <img src="media/salle_2_mission_cosmodome_2.jpg" width="500px"></img>
 >  image du dispositif source :[article]()
-Le dispositif est placer au centre de la pièce et entourer de bancsur la colone du millieux on retrouve des écrans qui serve de support visuel. 
 
+Le dispositif est placer au centre de la pièce et entourer de bancsur la colone du millieux on retrouve des écrans qui serve de support visuel. 
+### Élement nécessaire à la mise en exposition
+La construction de la colone centrale , les bancs , les murs qui servent surement de cache-fil
+
+### Expérience vécue
+Le visiteur est attendu de s'assir sur un des banc et d'écouter le vidéo explicatif. Le contenu de la vidéo nous sert de guide pour les prochaines étapes en nous présentant les planètes de notre système solaire et autres astres en nous donnant quelques informations sur ceux-ci. J'ai trouvé sa très intéressant qu'il nous dise divers information sur les planètes car même si on les connait pas mal toute déjà ce rafraichir le cerveaux fait touours du bien surtout si sa peux nous aidé pour la suite de la mission.
 
