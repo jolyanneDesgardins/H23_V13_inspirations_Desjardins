@@ -28,10 +28,9 @@ La première salle est composer d'un plancher sur elever par rapport mur qui ser
 
 ### Élement nécessaire à la mise en exposition
 Avoir un haut plafont pour etre en mesure d'y installer un plancher sur élever ou  les visiteurs vont pouvoir s'instaler pour voir le dispositif.
+
 ### Expérience vécue
-Le visiteur est invité a prendre place sur l'un des banc pour être confortable toute le long de la vidéo. La vidéo porte sur le début de l'exploration de l'espace. Les premiere mission et ce qu'elles ont eu pour but d'accomplir 
-
-
+Le visiteur est invité a prendre place sur l'un des banc pour être confortable toute le long de la vidéo. La vidéo porte sur le début de l'exploration de l'espace. Les premiere mission et ce qu'elles ont eu pour but d'accomplir et une introdution à notre mission qu'on doit faire
 
 
 ## Salle 2
