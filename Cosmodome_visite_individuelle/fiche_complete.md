@@ -25,6 +25,7 @@ Les vidéos pour la plupart sert a nous informée. Par exemple dans la première
 
 
 ### Salle 2
+<img src="media/salle_2_mission_cosmodome_2.jpeg" width="500px"></img>
 ![salle 2](media/salle_2_mission_cosmodome_2.jpeg)
 >  source :[article]()
 
