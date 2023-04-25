@@ -45,3 +45,25 @@ La construction de la colone centrale , les bancs , les murs qui servent suremen
 ### Expérience vécue
 Le visiteur est attendu de s'assir sur un des banc et d'écouter le vidéo explicatif. Le contenu de la vidéo nous sert de guide pour les prochaines étapes en nous présentant les planètes de notre système solaire et autres astres en nous donnant quelques informations sur ceux-ci. J'ai trouvé sa très intéressant qu'il nous dise divers information sur les planètes car même si on les connait pas mal toute déjà ce rafraichir le cerveaux fait touours du bien surtout si sa peux nous aidé pour la suite de la mission.
 
+## Salle 3
+### mise en espace
+<img src="media/salle_3_mission_cosmodome.jpg" width="500px"></img>
+>  image du dispositif source :[article]()
+le dispositive est l'écran au milieu de la salle et les écrans tactiles.
+### Élement nécessaire à la mise en exposition
+La construction des supports des écrans tactiles et  pour aussi cacher les fils.
+
+### Expérience vécue
+Le visiteur est attendu de s'installer à un poste et attendre que le décompte se dénisse avant de recevoir les informations sur la prochaine étape de la mission. Ensuite une fois la mission expliquer les visiteurs sont invitée a choisir une destination à explorer entre toute les planètes du système solaire, les lune de Jupiter et les astéroides, et de construire leur sonde pour si à envoyer .En fonction de l'astre choisie le visiteur doit ajouter certaine propriete comme la longeur de la sonde et que doit t'elle contenir. Cette partie de la mission à été une de mes préférées car même si tu fais pas le choix de module à utiliser , il te laisse recommencer en expliquant pourquoi c'est pas le bon module.
+## Salle 4
+### mise en espace
+<img src="media/salle_3_mission_cosmodome.jpg" width="500px"></img>
+>  image du dispositif source :[article]()
+les 
+### Élement nécessaire à la mise en exposition
+La construction des supports des écrans tactiles et  pour aussi cacher les fils.
+
+### Expérience vécue
+Dans cette salle le visiteur est attendu de choisir un poste 
+
+
