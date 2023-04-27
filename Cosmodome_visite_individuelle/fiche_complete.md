@@ -49,21 +49,31 @@ Le visiteur est attendu de s'assir sur un des banc et d'écouter le vidéo expli
 ### mise en espace
 <img src="media/salle_3_mission_cosmodome.jpg" width="500px"></img>
 >  image du dispositif source :[article]()
-le dispositive est l'écran au milieu de la salle et les écrans tactiles.
+
 ### Élement nécessaire à la mise en exposition
-La construction des supports des écrans tactiles et  pour aussi cacher les fils.
+La construction des supports des écrans tactiles et  pour aussi cacher les fils et aussi avoir les écrans.
 
 ### Expérience vécue
 Le visiteur est attendu de s'installer à un poste et attendre que le décompte se dénisse avant de recevoir les informations sur la prochaine étape de la mission. Ensuite une fois la mission expliquer les visiteurs sont invitée a choisir une destination à explorer entre toute les planètes du système solaire, les lune de Jupiter et les astéroides, et de construire leur sonde pour si à envoyer .En fonction de l'astre choisie le visiteur doit ajouter certaine propriete comme la longeur de la sonde et que doit t'elle contenir. Cette partie de la mission à été une de mes préférées car même si tu fais pas le choix de module à utiliser , il te laisse recommencer en expliquant pourquoi c'est pas le bon module.
 ## Salle 4
 ### mise en espace
-<img src="media/salle_3_mission_cosmodome.jpg" width="500px"></img>
+<img src="media/salle_4_mission_cosmodome.jpg" width="500px"></img>
 >  image du dispositif source :[article]()
 les 
 ### Élement nécessaire à la mise en exposition
 La construction des supports des écrans tactiles et  pour aussi cacher les fils.
 
 ### Expérience vécue
-Dans cette salle le visiteur est attendu de choisir un poste 
+Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les instructions donner dans la vidéo. Ensuite il a pour défis de faire attérire sa sonde sur la planet ce qui peut paraitre facile mais c'Esyt plus dure qu'on pense car on a l'emplacement de la planet quand il faut lancer la sonde mais comme dans la vrai vie les planètes tournent autour du soleil donc il faut donc essayer de coordoner l'emplacement de la planète avec la vitesse de la sonde. Ce jeu était amusant mais vraiment vraiment compliquer.
+## Salle 5
+### mise en espace
+<img src="media/salle_5_mission_cosmodome.jpg" width="500px"></img>
+>  image du dispositif source :[article]()
+
+### Élement nécessaire à la mise en exposition
+La construction du support pour pouvoir déposer l'écran et les murs sur le côté ou un retrouve les petite écran ou l'on put voir les images et le projecteur pour faire apparaitre les truc sur l'écran.
+
+### Expérience vécue
+Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les instructions donner dans la vidéo. Ensuite il a pour défis de faire attérire sa sonde sur la planet ce qui peut paraitre facile mais c'Esyt plus dure qu'on pense car on a l'emplacement de la planet quand il faut lancer la sonde mais comme dans la vrai vie les planètes tournent autour du soleil donc il faut donc essayer de coordoner l'emplacement de la planète avec la vitesse de la sonde. Ce jeu était amusant mais vraiment vraiment compliquer.
 
 
