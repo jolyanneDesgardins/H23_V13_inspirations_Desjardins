@@ -11,10 +11,12 @@ Aux frontières du cosmos
 ## Nom de l'artiste ou de la firme
 L'oeuvre à été créer par le Cosmodome
 ## Année de création
-inconnu mais autour de 
+Les trois missions virtuelles ont été présenter pour la premier fois en 2012 
 ## Description de l'oeuvre ou du dispositif 
-à rechercher
-## Type d'installation
+
+> Les destinations les plus fascinantes sont souvent très éloignées et situées dans un milieu hostile. Pour réussir votre voyage dans le système solaire, vous devrez envoyer en mission, sur la planète de votre choix, votre fidèle éclaireuse : une sonde courageuse, prête à affronter tous les dangers et à percer les mystères de contrées inconnues. Derrière chaque sonde se cache un humain; derrière chaque humain se cache une mission. À vous de trouver la vôtre… 
+> source du texte descriptif de l'oeuvre : [site internet du cosmodome](https://cosmodome.org/activites-familiale/missions-virtuelles/
+## Type d'installation)
 Les missions sont des dispositif intéractifs et immersif. La plupart des salles contiennent des dispositifs intératifs pour nous permettre d'en apprendre plus sur le cosmos.
 ## Fonction du dispositif 
 La mission vision virtuelle est diviser en plusieur salle et chacune a son propre dispositif que se sois une vidéo ou un jeu .
