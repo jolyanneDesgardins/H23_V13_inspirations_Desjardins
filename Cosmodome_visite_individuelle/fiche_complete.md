@@ -26,6 +26,7 @@ Les vidéos pour la plupart sert a nous informée. Par exemple dans la première
 ### Mise en espace
 <img src="media/salle_1_mission_cosmodome.webp" width="500px"></img>
 >source de l'image : [Quoi faire en famille ](https://quoifaireenfamille.com/fiche/musee-site-historique/cosmodome/)
+<img src="media/salle_1_mission_cosmodome_croquis.jpg" width="500px"></img>
 
 La première salle est composer d'un plancher sur elever par rapport mur qui sert de suport a la projection. Il y a aussi 2 bancs pour s'asseoir. 
 
