@@ -5,7 +5,7 @@ Le Cosmodome à Laval
 ## Type d'exposition
 Les missions virtuels sont des expositions permanantes.
 ## Date de la visite
-ddmfkfkfk
+1er mars 2023
 ## Titre de l'oeuvre 
 Aux frontières du cosmos
 ## Nom de l'artiste ou de la firme
@@ -50,7 +50,7 @@ Le visiteur est attendu de s'assir sur un des banc et d'écouter le vidéo expli
 
 ## Salle 3
 ### mise en espace
-<img src="media/salle_3_mission_cosmodome.jpg" width="500px"></img>
+<img src="media/salle_3_mission_cosmodome.jpg" width="500px"></img><img src="media/salle_3_cosmodome_croquis-Page-3.jpg" width="500px"></img>
 >  image du dispositif source :[article]()
 
 ### Élement nécessaire à la mise en exposition
@@ -60,7 +60,7 @@ La construction des supports des écrans tactiles et  pour aussi cacher les fils
 Le visiteur est attendu de s'installer à un poste et attendre que le décompte se dénisse avant de recevoir les informations sur la prochaine étape de la mission. Ensuite une fois la mission expliquer les visiteurs sont invitée a choisir une destination à explorer entre toute les planètes du système solaire, les lune de Jupiter et les astéroides, et de construire leur sonde pour si à envoyer .En fonction de l'astre choisie le visiteur doit ajouter certaine propriete comme la longeur de la sonde et que doit t'elle contenir. Cette partie de la mission à été une de mes préférées car même si tu fais pas le choix de module à utiliser , il te laisse recommencer en expliquant pourquoi c'est pas le bon module.
 ## Salle 4
 ### mise en espace
-<img src="media/salle_4_mission_cosmodome.jpg" width="500px"></img>
+<img src="media/salle_4_cosmodome_croquis-Page-4.jpg" width="500px"></img>
 >  image du dispositif source :[article]()
 les 
 ### Élement nécessaire à la mise en exposition
@@ -70,7 +70,7 @@ La construction des supports des écrans tactiles et  pour aussi cacher les fils
 Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les instructions donner dans la vidéo. Ensuite il a pour défis de faire attérire sa sonde sur la planet ce qui peut paraitre facile mais c'Esyt plus dure qu'on pense car on a l'emplacement de la planet quand il faut lancer la sonde mais comme dans la vrai vie les planètes tournent autour du soleil donc il faut donc essayer de coordoner l'emplacement de la planète avec la vitesse de la sonde. Ce jeu était amusant mais vraiment vraiment compliquer.
 ## Salle 5
 ### mise en espace
-<img src="media/salle_5_mission_cosmodome.jpg" width="500px"></img>
+<img src="media/salle_5_mission_cosmodome.jpg" width="600px"></img>
 >  image du dispositif source :[article]()
 
 ### Élement nécessaire à la mise en exposition
