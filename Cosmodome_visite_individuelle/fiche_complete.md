@@ -38,7 +38,7 @@ Le visiteur est invité a prendre place sur l'un des banc pour être confortable
 
 ## Salle 2
 ### mise en espace
-<img src="media/salle_2_mission_cosmodome_2.jpg" width="500px"></img>
+<img src="media/salle_2_mission_cosmodome_2.jpg" width="500px"></img><img src="media/salle_2_cosmodome_croquis-salle_2.jpg" width="500px"></img>
 >  image du dispositif source :[article]()
 
 Le dispositif est placer au centre de la pièce et entourer de bancsur la colone du millieux on retrouve des écrans qui serve de support visuel. 
