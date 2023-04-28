@@ -10,8 +10,8 @@ Les missions virtuels sont des expositions permanantes.
 1er mars 2023
 
 ## Titre de l'oeuvre 
-Aux frontières du cosmos
 
+<img src="media/affiche_expo_cosmodome.jpg" width="500px"></img>
 ## Nom de l'artiste ou de la firme
 L'oeuvre à été créer par le Cosmodome
 
@@ -101,8 +101,10 @@ Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les i
 ### mise en espace
 <img src="media/salle_5_mission_cosmodome.jpg" width="500px"></img> <img src="media/salle_5_cosmodome_croquis-Page-5.jpg" width="500px"></img>
 >  image du dispositif source :[article]()
+>  
 ### Composante et technique 
 Les fichiers vidéos et le programme qui permet l'intéractivité des oeuvres. 
+
 ### Élement nécessaire à la mise en exposition
 La construction du support pour pouvoir déposer l'écran et les murs sur le côté ou un retrouve les petite écran ou l'on put voir les images et le projecteur pour faire apparaitre les truc sur l'écran.
 
@@ -124,4 +126,6 @@ La fabrication du banc et les 2 projecteur
 Dans cette sa le visiteur est attendu de prendre place sur le banc, prêt à écouter la vidéo qui va suivre.Dans la vidéo on fait un retour sur la mission et on nous présente les découvertes qui on été faite et les choses de la vie de tout les jours qui ont été découvert grace a la conquête de l'espace.
 
 # Ce qui ma plu 
-Expérience en tant que telle m'a beaucoup plus. Moi qui est passionée par l'espace à trouver ça vraiment intéressent. Les instructions claires et pa nébuleuses. Aussi la notion d'apprentisage que sa offre est plutot agréable. Aussi le choix que le dispositif offre et le reste de ton parcours sois différent selon l'astre choisie au départ donc il y a beaucoup de variation. Aussi on a l'impression de vraiment participé à la recherche aussi le fait qu'on peut personnalisé notre sonde. Moi et mon amie on a choisie Neptune donc dans notre son on devait mettre le disque d'or et on pouvais choisir se qu'on voulais mettre dessus. Aussi un petit plus c'est que même les enfant qui savent pas lire peuvent participer avec peut d'aide d'un parent car les consigne sont présenter sous forme de vidéo et aussi c'est très instinctif.                     
+Expérience en tant que telle m'a beaucoup plus. Moi qui est passionée par l'espace à trouver ça vraiment intéressent. Les instructions claires et pa nébuleuses. Aussi la notion d'apprentisage que sa offre est plutot agréable. Aussi le choix que le dispositif offre et le reste de ton parcours sois différent selon l'astre choisie au départ donc il y a beaucoup de variation. Aussi on a l'impression de vraiment participé à la recherche aussi le fait qu'on peut personnalisé notre sonde. Moi et mon amie on a choisie Neptune donc dans notre son on devait mettre le disque d'or et on pouvais choisir se qu'on voulais mettre dessus. Aussi un petit plus c'est que même les enfant qui savent pas lire peuvent participer avec peut d'aide d'un parent car les consigne sont présenter sous forme de vidéo et aussi c'est très instinctif. Et aussi les décors rende l'expérience très réaliste.
+# Aspect que je ne retiendrais pas 
+L'utilisation des bracelets est super intéressente mais c'était quand même dure de les utiliser car il fallait appuyer vraiment fort dessus et même la sa marchait pas toujours donc on avait toujours l'impression que notre bracelet fonctionnais plus je pense qu'on pourait avoir le même effet avec par exemple une carte que tu dépose sur le le dispositif a bracelet par exemple mais une carte serait trop facile a perdre.
