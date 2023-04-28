@@ -122,3 +122,6 @@ La fabrication du banc et les 2 projecteur
 
 ### Expérience vécue
 Dans cette sa le visiteur est attendu de prendre place sur le banc, prêt à écouter la vidéo qui va suivre.Dans la vidéo on fait un retour sur la mission et on nous présente les découvertes qui on été faite et les choses de la vie de tout les jours qui ont été découvert grace a la conquête de l'espace.
+
+# Ce qui ma plu 
+Expérience en tant que telle m'a beaucoup plus. Moi qui est passionée par l'espace à trouver ça vraiment intéressent. Les instructions claires et pa nébuleuses. Aussi la notion d'apprentisage que sa offre est plutot agréable. Aussi le choix que le dispositif offre et le reste de ton parcours sois différent selon l'astre choisie au départ donc il y a beaucoup de variation. Aussi on a l'impression de vraiment participé à la recherche aussi le fait qu'on peut personnalisé notre sonde. Moi et mon amie on a choisie Neptune donc dans notre son on devait mettre le disque d'or et on pouvais choisir se qu'on voulais mettre dessus. Aussi un petit plus c'est que même les enfant qui savent pas lire peuvent participer avec peut d'aide d'un parent car les consigne sont présenter sous forme de vidéo et aussi c'est très instinctif.                     
