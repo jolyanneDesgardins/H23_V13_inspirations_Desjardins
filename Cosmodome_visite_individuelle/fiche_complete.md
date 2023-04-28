@@ -70,7 +70,7 @@ La construction des supports des écrans tactiles et  pour aussi cacher les fils
 Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les instructions donner dans la vidéo. Ensuite il a pour défis de faire attérire sa sonde sur la planet ce qui peut paraitre facile mais c'Esyt plus dure qu'on pense car on a l'emplacement de la planet quand il faut lancer la sonde mais comme dans la vrai vie les planètes tournent autour du soleil donc il faut donc essayer de coordoner l'emplacement de la planète avec la vitesse de la sonde. Ce jeu était amusant mais vraiment vraiment compliquer.
 ## Salle 5
 ### mise en espace
-<img src="media/salle_5_mission_cosmodome.jpg" width="600px"></img>salle_5_cosmodome_croquis-Page-5.jpg>
+<img src="media/salle_5_mission_cosmodome.jpg" width="600px"></img><img src="media/salle_5_cosmodome_croquis-Page-5.jpg width="600px"></img>
 >  image du dispositif source :[article]()
 
 ### Élement nécessaire à la mise en exposition
