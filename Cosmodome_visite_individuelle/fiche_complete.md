@@ -24,11 +24,10 @@ Les vidéos pour la plupart sert a nous informée. Par exemple dans la première
 # Mise en valeur et espérience vécue
 ## Salle 1 
 ### Mise en espace
-<img src="media/salle_1_mission_cosmodome.webp" width="500px"></img>
+<img src="media/salle_1_mission_cosmodome.webp" width="500px"></img><img src="media/salle_1_cosmodome_croquis-salle_1.jpg" width="500px"></img>
 >source de l'image : [Quoi faire en famille ](https://quoifaireenfamille.com/fiche/musee-site-historique/cosmodome/)
-<img src="media/salle_1_mission_cosmodome_croquis.jpg" width="500px"></img>
 
-La première salle est composer d'un plancher sur elever par rapport mur qui sert de suport a la projection. Il y a aussi 2 bancs pour s'asseoir. 
+La première salle est composer d'un plancher sur élever par rapport mur qui sert de suport a la projection. Il y a aussi 2 bancs pour s'asseoir. 
 
 ### Élement nécessaire à la mise en exposition
 Avoir un haut plafont pour etre en mesure d'y installer un plancher sur élever ou  les visiteurs vont pouvoir s'instaler pour voir le dispositif.
