@@ -18,11 +18,20 @@ Présention de la mission Virtuel Aux frontières du cosmos présenté au cosmod
  - Nos de l'exposition : Missions Virtuelles 
  - Exposition permanante
  - Lieu: cosmodome 
- - Cosmodome : 
+ - Cosmodome : a savoir
  - Date de visite: 1er mars
  
  
  # Présentation détaillée de l'oeuvre ou du dispositif multimédia 
- -description : 
+ - description :  x x x x x 
+ - Exposition permanante
+ - fonctionnement: 
+ 
+     - équipe =» On peut faire cette expérience seul ou en équipe. On nous fait choisir un avatar et rentrer le nom des membres de l'équipe et chaque personnes par la suite recoivent leur bracelet. 
+     - bracelet=» Les bracelets servent à différencier les équipes et leur membres. Par exemple avant chaque jeux il faut que les deux membres de l'équipe scan le bracelet pour pouvoir commencer et aussi pour confirmer un choix qu'on veux faire
+     -  salles=» le dispositif est diviser en plusieurs salles dans lesquelles elle contiennent elle même un dispositif et aussi on a 10 à 15 minutes par salle et 1 minutes pour changer de salles. 
+ 
+- mise en espace, composantes, éléments pour chaque salles 
+
  
  
