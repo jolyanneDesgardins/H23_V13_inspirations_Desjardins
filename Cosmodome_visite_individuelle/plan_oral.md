@@ -33,5 +33,6 @@ Présention de la mission Virtuel Aux frontières du cosmos présenté au cosmod
  
 - mise en espace, composantes, éléments pour chaque salles 
 
- 
+ # - Expérience vécue
+ pour chaque salle après les autres élément 
  
