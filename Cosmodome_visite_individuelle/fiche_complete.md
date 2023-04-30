@@ -22,9 +22,14 @@ Les trois missions virtuelles ont été présenter pour la premier fois en 2012
 > Les destinations les plus fascinantes sont souvent très éloignées et situées dans un milieu hostile. Pour réussir votre voyage dans le système solaire, vous devrez envoyer en mission, sur la planète de votre choix, votre fidèle éclaireuse : une sonde courageuse, prête à affronter tous les dangers et à percer les mystères de contrées inconnues. Derrière chaque sonde se cache un humain; derrière chaque humain se cache une mission. À vous de trouver la vôtre… 
 >source du texte descriptif de l'oeuvre : [site internet du cosmodome](https://cosmodome.org/activites-familiale/missions-virtuelles/)
 ## Type d'installation
-Les missions sont des dispositifs intéractifs et immersif. La plupart des salles contiennent des dispositifs intératifs pour nous permettre d'en apprendre plus sur le cosmos.
+Les missions sont des dispositifs intéractifs et immersifs. La plupart des salles contiennent des dispositifs intératifs pour nous permettre d'en apprendre plus sur le cosmos.
 
 ## Fonction du dispositif 
+
+équipe =» On peut faire cette expérience seul ou en équipe. On nous fait choisir un avatar et rentrer le nom des membres de l'équipe et chaque personnes par la suite recoivent leur bracelet.
+bracelet=» Les bracelets servent à différencier les équipes et leur membres. Par exemple avant chaque jeux il faut que les deux membres de l'équipe scan le bracelet pour pouvoir commencer et aussi pour confirmer un choix qu'on veux faire
+salles=» le dispositif est diviser en plusieurs salles dans lesquelles elle contiennent elle même un dispositif et aussi on a 10 à 15 minutes par salle et 1 minutes pour changer de salles.
+
 La mission vision virtuelle est diviser en plusieur salle et chacune a son propre dispositif que se sois une vidéo ou un jeu .
 Les vidéos pour la plupart sert a nous informée. Par exemple dans la première salle un vidéo d'introduction nous sert à nous mettre en contexte, nous parler du début de la conquete de l'espace. Dans la seconde salle , on nous présente encore à l'aide de vidéo les planetes et autre astre de notre système solaire qui vont nous être utile pour la suite de l'aventure. Ensuite pour les salles avec des dispositif intéractif une vidéo est toujours là pour nous expliquer le but du jeu comment le dipotif fonction et comment on joue.
 
@@ -88,13 +93,13 @@ Le visiteur est attendu de s'installer à un poste et attendre que le décompte 
 ## Salle 4
 ### mise en espace
 <img src="media/salle_4_cosmodome_croquis-Page-4.jpg" width="500px"></img>
->  image du dispositif source :[article]()
+
 ### Composante et technique 
 Les fichiers vidéos et le programme qui permet l'intéractivité des oeuvres. 
 ### Élement nécessaire à la mise en exposition
 La construction des supports des écrans tactiles et  pour aussi cacher les fils.
 ### Expérience vécue
-Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les instructions donner dans la vidéo. Ensuite il a pour défis de faire attérire sa sonde sur la planet ce qui peut paraitre facile mais c'Esyt plus dure qu'on pense car on a l'emplacement de la planet quand il faut lancer la sonde mais comme dans la vrai vie les planètes tournent autour du soleil donc il faut donc essayer de coordoner l'emplacement de la planète avec la vitesse de la sonde. Ce jeu était amusant mais vraiment vraiment compliquer.
+Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les instructions donner dans la vidéo. Ensuite il a pour défis de faire attérire sa sonde sur la planet ce qui peut paraitre facile mais c'est plus dure qu'on pense car on a l'emplacement de la planet quand il faut lancer la sonde mais comme dans la vrai vie les planètes tournent autour du soleil donc il faut donc essayer de coordoner l'emplacement de la planète avec la vitesse de la sonde. Ce jeu était amusant mais vraiment vraiment compliquer.
 
 
 ## Salle 5
@@ -128,6 +133,6 @@ Dans cette sa le visiteur est attendu de prendre place sur le banc, prêt à éc
 # Ce qui ma plu 
 Expérience en tant que telle m'a beaucoup plus. Moi qui est passionée par l'espace à trouver ça vraiment intéressent. Les instructions claires et pa nébuleuses. Aussi la notion d'apprentisage que sa offre est plutot agréable. Aussi le choix que le dispositif offre et le reste de ton parcours sois différent selon l'astre choisie au départ donc il y a beaucoup de variation. Aussi on a l'impression de vraiment participé à la recherche aussi le fait qu'on peut personnalisé notre sonde. Moi et mon amie on a choisie Neptune donc dans notre son on devait mettre le disque d'or et on pouvais choisir se qu'on voulais mettre dessus. Aussi un petit plus c'est que même les enfant qui savent pas lire peuvent participer avec peut d'aide d'un parent car les consigne sont présenter sous forme de vidéo et aussi c'est très instinctif. Et aussi les décors rende l'expérience très réaliste.
 # Aspect que je ne retiendrais pas 
-L'utilisation des bracelets est super intéressente mais c'était quand même dure de les utiliser car il fallait appuyer vraiment fort dessus et même la sa marchait pas toujours donc on avait toujours l'impression que notre bracelet fonctionnais plus je pense qu'on pourait avoir le même effet avec par exemple une carte que tu dépose sur le le dispositif a bracelet par exemple mais une carte serait trop facile a perdre.
+L'utilisation des bracelets est super intéressente mais c'était quand même dure de les utiliser car il fallait appuyer vraiment fort dessus et même la sa marchait pas toujours donc on avait toujours l'impression que notre bracelet fonctionnais plus.
 # Référence
 
