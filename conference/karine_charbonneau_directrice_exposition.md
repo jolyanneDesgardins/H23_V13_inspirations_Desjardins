@@ -1,0 +1,1 @@
+Karine Charbonneau est la directrice d'exposition de l'artiste Rafael depuis 15 ans. Elle a étudier en communication et en histoire de l'art det elle a assister Raphael qui est un artiste né au Mexique et qui à immigrer au Canada quand il était jeune.
