@@ -72,7 +72,7 @@ Le visiteur est attendu de s'assir sur un des banc et d'écouter le vidéo expli
 
 ### mise en espace
 <img src="media/salle_3_mission_cosmodome.jpg" width="500px"></img><img src="media/salle_3_cosmodome_croquis-Page-3.jpg" width="500px"></img>
->  image du dispositif source :[article]()
+>  image du dispositif source : [Quoi faire en famille ](https://quoifaireenfamille.com/fiche/musee-site-historique/cosmodome/)
 
 ### Composante et technique 
 Les fichiers vidéos et le programme qui permet l'intéractivité des oeuvres. 
