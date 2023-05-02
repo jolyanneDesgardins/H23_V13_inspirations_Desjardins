@@ -25,13 +25,7 @@ Les trois missions virtuelles ont été présenter pour la premier fois en 2012
 Les missions sont des dispositifs intéractifs et immersifs. La plupart des salles contiennent des dispositifs intératifs pour nous permettre d'en apprendre plus sur le cosmos.
 
 ## Fonction du dispositif 
-
-équipe =» On peut faire cette expérience seul ou en équipe. On nous fait choisir un avatar et rentrer le nom des membres de l'équipe et chaque personnes par la suite recoivent leur bracelet.
-bracelet=» Les bracelets servent à différencier les équipes et leur membres. Par exemple avant chaque jeux il faut que les deux membres de l'équipe scan le bracelet pour pouvoir commencer et aussi pour confirmer un choix qu'on veux faire
-salles=» le dispositif est diviser en plusieurs salles dans lesquelles elle contiennent elle même un dispositif et aussi on a 10 à 15 minutes par salle et 1 minutes pour changer de salles.
-
-La mission vision virtuelle est diviser en plusieur salle et chacune a son propre dispositif que se sois une vidéo ou un jeu .
-Les vidéos pour la plupart sert a nous informée. Par exemple dans la première salle un vidéo d'introduction nous sert à nous mettre en contexte, nous parler du début de la conquete de l'espace. Dans la seconde salle , on nous présente encore à l'aide de vidéo les planetes et autre astre de notre système solaire qui vont nous être utile pour la suite de l'aventure. Ensuite pour les salles avec des dispositif intéractif une vidéo est toujours là pour nous expliquer le but du jeu comment le dipotif fonction et comment on joue.
+Le dispositif sert à en apprendre plus sur le cosmos et ses explorations toute en participant à l'aide de jeux intéractifs
 
 # Mise en espace et espérience vécue
 
@@ -120,7 +114,7 @@ Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les i
 ## Salle 6
 ### mise en espace
 <img src="media/sall_6_mission_cosmodome.jpg" width="500px"></img> <img src="media/salle_6_cosmodome_croquis-Page-6.jpg" width="500px"></img>
->  image du dispositif source :[article]()
+>  image du dispositif source :[The Record ](https://www.therecord.com/life/travel/2012/01/06/travel-cosmodome-offers-a-virtual-trip-into-space.html?rf)
 ### Composante et technique 
 Les fichiers vidéos 
 
@@ -130,7 +124,7 @@ La fabrication du banc et les 2 projecteur
 ### Expérience vécue
 Dans cette sa le visiteur est attendu de prendre place sur le banc, prêt à écouter la vidéo qui va suivre.Dans la vidéo on fait un retour sur la mission et on nous présente les découvertes qui on été faite et les choses de la vie de tout les jours qui ont été découvert grace a la conquête de l'espace.
 
-# Ce qui ma plu 
+# Ce qui m'a plu 
 Expérience en tant que telle m'a beaucoup plus. Moi qui est passionée par l'espace à trouver ça vraiment intéressent. Les instructions claires et pa nébuleuses. Aussi la notion d'apprentisage que sa offre est plutot agréable. Aussi le choix que le dispositif offre et le reste de ton parcours sois différent selon l'astre choisie au départ donc il y a beaucoup de variation. Aussi on a l'impression de vraiment participé à la recherche aussi le fait qu'on peut personnalisé notre sonde. Moi et mon amie on a choisie Neptune donc dans notre son on devait mettre le disque d'or et on pouvais choisir se qu'on voulais mettre dessus. Aussi un petit plus c'est que même les enfant qui savent pas lire peuvent participer avec peut d'aide d'un parent car les consigne sont présenter sous forme de vidéo et aussi c'est très instinctif. Et aussi les décors rende l'expérience très réaliste.
 # Aspect que je ne retiendrais pas 
 L'utilisation des bracelets est super intéressente mais c'était quand même dure de les utiliser car il fallait appuyer vraiment fort dessus et même la sa marchait pas toujours donc on avait toujours l'impression que notre bracelet fonctionnais plus.
