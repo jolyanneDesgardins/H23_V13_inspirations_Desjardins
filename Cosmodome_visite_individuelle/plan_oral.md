@@ -34,3 +34,6 @@ Présention de la mission Virtuel Aux frontières du cosmos présenté au cosmod
  
  # Appréciation critique et justifications
  - critique: Les bracelets qui fonctionnait pas très bien
+
+ # Rappel des aspects présentés
+ # Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
