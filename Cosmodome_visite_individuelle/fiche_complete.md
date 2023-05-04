@@ -22,7 +22,7 @@ Les trois missions virtuelles ont été présenter pour la premier fois en 2012
 > Les destinations les plus fascinantes sont souvent très éloignées et situées dans un milieu hostile. Pour réussir votre voyage dans le système solaire, vous devrez envoyer en mission, sur la planète de votre choix, votre fidèle éclaireuse : une sonde courageuse, prête à affronter tous les dangers et à percer les mystères de contrées inconnues. Derrière chaque sonde se cache un humain; derrière chaque humain se cache une mission. À vous de trouver la vôtre… 
 >source du texte descriptif de l'oeuvre : [site internet du cosmodome](https://cosmodome.org/activites-familiale/missions-virtuelles/)
 ## Type d'installation
-Les missions sont des dispositifs intéractifs et immersifs. La plupart des salles contiennent des dispositifs intératifs pour nous permettre d'en apprendre plus sur le cosmos.
+Le dispositif sert à en apprendre plus sur le cosmos et ses explorations tout en participant à l'aide de jeux interactifs
 
 ## Fonction du dispositif 
 Le dispositif sert à en apprendre plus sur le cosmos et ses explorations toute en participant à l'aide de jeux intéractifs
@@ -47,7 +47,7 @@ Avoir un haut plafond pour être en mesure d'y installer un plancher sur élevé
 
 
 ### Expérience vécue
-Le visiteur est invité à prendre place sur l'un des bancs pour être confortable toute le long de la vidéo. La vidéo porte sur le début de l'exploration de l'espace. Les premières missions et ce qu'elles ont eu pour but d'accomplir et une introduction à notre mission qu'on doit faire
+Le visiteur est invité à prendre place sur l'un des bancs pour être confortable toute le long de la vidéo. La vidéo porte sur le début de l'exploration de l'espace. Les premières missions et ce qu'elles ont eu pour but d'accomplir et une introduction à notre mission qu'on doit faire.
 
 
 
@@ -62,12 +62,11 @@ Le visiteur est invité à prendre place sur l'un des bancs pour être confortab
 Le fichier  vidéo
  
 ### Élement nécessaire à la mise en exposition
-Le dispositif est placer au centre de la pièce et entourer de bancsur la colone du millieux on retrouve des écrans qui serve de support visuel.
-La construction de la colone centrale , les bancs , les murs qui servent surement de cache-fil
+Le dispositif est placé au centre de la pièce et entouré de bancs, sur la colonne du milieu on retrouve des écrans qui servent de support visuel.
+La construction de la colonie centrale , les bancs , les murs qui servent surement de cache-fil.
 
 ### Expérience vécue
-Le visiteur est attendu de s'assir sur un des banc et d'écouter le vidéo explicatif. Le contenu de la vidéo nous sert de guide pour les prochaines étapes en nous présentant les planètes de notre système solaire et autres astres en nous donnant quelques informations sur ceux-ci. J'ai trouvé sa très intéressant qu'il nous dise divers information sur les planètes car même si on les connait pas mal toute déjà ce rafraichir le cerveaux fait touours du bien surtout si sa peux nous aidé pour la suite de la mission.
-
+Le visiteur est attendu de s'asseoir sur un des bancs et d'écouter le vidéo explicatif. Le contenu de la vidéo nous sert de guide pour les prochaines étapes en nous présentant les planètes de notre système solaire et autres astres en nous donnant quelques informations sur ceux-ci. J'ai trouvé sa très intéressant qu'il nous dise diverses informations sur les planètes, car même si on les connait pas mal toute déjà ce rafraichir le cerveau fait toujours du bien surtout si ça peut nous aidé pour la suite de la mission.
 
 
 ## Salle 3
@@ -83,7 +82,8 @@ Les fichiers vidéos et le programme qui permet l'intéractivité des oeuvres.
 La construction des supports des écrans tactiles et  pour aussi cacher les fils et aussi avoir les écrans.
 
 ### Expérience vécue
-Le visiteur est attendu de s'installer à un poste et attendre que le décompte se dénisse avant de recevoir les informations sur la prochaine étape de la mission. Ensuite une fois la mission expliquer les visiteurs sont invitée a choisir une destination à explorer entre toute les planètes du système solaire, les lune de Jupiter et les astéroides, et de construire leur sonde pour si à envoyer .En fonction de l'astre choisie le visiteur doit ajouter certaine propriete comme la longeur de la sonde et que doit t'elle contenir. Cette partie de la mission à été une de mes préférées car même si tu fais pas le choix de module à utiliser , il te laisse recommencer en expliquant pourquoi c'est pas le bon module.
+Le visiteur est attendu de s'installer à un poste et attendre que le décompte se dévisse avant de recevoir les informations sur la prochaine étape de la mission. Ensuite, une fois la mission expliquer , les visiteurs sont invités a choisir une destination à explorer entre toutes les planètes du système solaire, les lunes de Jupiter et les astéroïdes, et de construire leur sonde pour si à envoyer .En fonction de l'astre choisie le visiteur doit ajouter certaine propriété comme la longueur de la sonde et que doit-elle contenir. Cette partie de la mission à été une de mes préférées, car même si tu ne fais pas le choix de module à utiliser , il te laisse recommencer en expliquant pourquoi ce n’est pas le bon module.
+
 
 
 ## Salle 4
@@ -95,7 +95,7 @@ Les fichiers vidéos et le programme qui permet l'intéractivité des oeuvres.
 ### Élement nécessaire à la mise en exposition
 La construction des supports des écrans tactiles et  pour aussi cacher les fils.
 ### Expérience vécue
-Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les instructions donner dans la vidéo. Ensuite il a pour défis de faire attérire sa sonde sur la planet ce qui peut paraitre facile mais c'est plus dure qu'on pense car on a l'emplacement de la planet quand il faut lancer la sonde mais comme dans la vrai vie les planètes tournent autour du soleil donc il faut donc essayer de coordoner l'emplacement de la planète avec la vitesse de la sonde. Ce jeu était amusant mais vraiment vraiment compliquer.
+Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les instructions donner dans la vidéo. Ensuite il a pour défis de faire atterrir sa sonde sur la plante ce qui peut paraitre facile, mais c'est plus dur qu'on pense, car on a l'emplacement de la plante quand il faut lancer la sonde, mais comme dans la vraie vie les planètes tournent autour du soleil donc il faut donc essayer de coordonner l'emplacement de la planète avec la vitesse de la sonde. Ce jeu était amusant, mais vraiment vraiment compliquer.
 
 
 ## Salle 5
