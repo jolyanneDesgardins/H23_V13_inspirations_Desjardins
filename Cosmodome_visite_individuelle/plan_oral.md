@@ -15,7 +15,7 @@ Présention de la mission Virtuel Aux frontières du cosmos présenté au cosmod
  - Titre : Aux frontières du cosmos
  - Artiste : Le cosmodome
  - Année : 2012
- - Nos de l'exposition : Missions Virtuelles 
+ - Nom de l'exposition : Missions Virtuelles 
  - Exposition permanante
  - Lieu: cosmodome 
  - Cosmodome : a savoir
