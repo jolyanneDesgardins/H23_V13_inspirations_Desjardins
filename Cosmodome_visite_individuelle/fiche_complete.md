@@ -42,11 +42,13 @@ Le dispositif sert à en apprendre plus sur le cosmos et ses explorations toute 
 Le fichier  vidéo
 
 ### Élement nécessaire à la mise en exposition
-La première salle est composer d'un plancher sur élever par rapport mur qui sert de suport a la projection. Il y a aussi 2 bancs pour s'asseoir. 
-Avoir un haut plafont pour etre en mesure d'y installer un plancher sur élever ou  les visiteurs vont pouvoir s'instaler pour voir le dispositif.
+La première salle est composée d'un plancher sur élever par rapport mur qui sert de support a la projection. Il y a aussi 2 bancs pour s'asseoir. 
+Avoir un haut plafond pour être en mesure d'y installer un plancher sur élevé où  les visiteurs vont pouvoir s'installer pour voir le dispositif.
+
 
 ### Expérience vécue
-Le visiteur est invité a prendre place sur l'un des banc pour être confortable toute le long de la vidéo. La vidéo porte sur le début de l'exploration de l'espace. Les premiere mission et ce qu'elles ont eu pour but d'accomplir et une introdution à notre mission qu'on doit faire
+Le visiteur est invité à prendre place sur l'un des bancs pour être confortable toute le long de la vidéo. La vidéo porte sur le début de l'exploration de l'espace. Les premières missions et ce qu'elles ont eu pour but d'accomplir et une introduction à notre mission qu'on doit faire
+
 
 
 
