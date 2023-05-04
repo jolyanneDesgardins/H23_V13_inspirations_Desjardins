@@ -41,3 +41,5 @@ Présention de la mission Virtuel Aux frontières du cosmos présenté au cosmod
  - présentation détailler
  - expérience vécu
  # Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
+ - Toute les types d'oeuvre qu'on peut faire par exemple toute les trucs qu'on peut arriver à faire avec le multimédia
+ -
