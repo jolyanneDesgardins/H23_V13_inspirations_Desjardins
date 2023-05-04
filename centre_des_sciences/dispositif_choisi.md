@@ -1,4 +1,4 @@
-# Je sais pas 
+# Dispositif sur les gènes
 ## Lieu d'exposition
 Centre des sciences de montreal
 ## Type d'éexposition
