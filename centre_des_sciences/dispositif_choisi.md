@@ -21,7 +21,9 @@ le dispositif est entourer de d'autre oeuvre mais à environ 1 mètre et quelque
 - Les plaquette de bois 
 - Le programme qui sert à faire apparaitre les infos sur l'écran
 ## Éléments 
+![](medias/centre_des_sciences_fil.jpg)
 - Les fils 
+
 ## Epérience vécu
 le visiteur est attendu d'aligner la séquense d'ADN des plaquettes à la séquence d'ADN de la structure, pour révéler par la suite des informations et l,utilité du gène indiquer sur la plaquette
 
