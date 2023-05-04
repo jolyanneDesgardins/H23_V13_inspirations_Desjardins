@@ -9,7 +9,7 @@ l'exposition Humain est une exposition permanante
 Le centre des sciences
 ## Année de création 
 ## Description de l'oeuvre ou du dispositif
-
+<img src="medias/description.jpg" width="500px"></img>
 ## Type d'installation
 Intéractive 
 ## Fonction du dispositif
