@@ -15,7 +15,7 @@ Intéractive
 ## Fonction du dispositif
 <img src="medias/centre_des_sciences_plaquette.jpg" width="500px"></img>
 ## Mise en espace
-le dispositif est entourer de d'autre oeuvre mais à environ 1 mètre et quelque de d'autre oeuvre.
+Le dispositif est entouré de d'autre oeuvre mais à environ 1 mètre et quelques de d'autre oeuvre.
 
 ## Composantes et techniques
 - La structure du dispositif
