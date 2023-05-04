@@ -56,7 +56,7 @@ Le visiteur est invité à prendre place sur l'un des bancs pour être confortab
 
 ### mise en espace
 <img src="media/salle_2_mission_cosmodome_2.jpg" width="500px"></img><img src="media/salle_2_cosmodome_croquis-salle_2.jpg" width="500px"></img>
->  image du dispositif source :[article]()
+>  image du dispositif source :[Quoi faire en famille ](https://quoifaireenfamille.com/fiche/musee-site-historique/cosmodome/)
 >  
 ### Composante et technique 
 Le fichier  vidéo
@@ -101,7 +101,7 @@ Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les i
 ## Salle 5
 ### mise en espace
 <img src="media/salle_5_mission_cosmodome.jpg" width="500px"></img> <img src="media/salle_5_cosmodome_croquis-Page-5.jpg" width="500px"></img>
->  image du dispositif source :[article]()
+>  image du dispositif source :Quoi faire en famille ](https://quoifaireenfamille.com/fiche/musee-site-historique/cosmodome/)
 >  
 ### Composante et technique 
 Les fichiers vidéos et le programme qui permet l'intéractivité des oeuvres. 
@@ -110,7 +110,7 @@ Les fichiers vidéos et le programme qui permet l'intéractivité des oeuvres.
 La construction du support pour pouvoir déposer l'écran et les murs sur le côté ou un retrouve les petite écran ou l'on put voir les images et le projecteur pour faire apparaitre les truc sur l'écran.
 
 ### Expérience vécue
-Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les instructions donner dans la vidéo. Ensuite il a pour défis de faire attérire sa sonde sur la planet ce qui peut paraitre facile mais c'est plus dure qu'on pense car on a l'emplacement de la planet quand il faut lancer la sonde mais comme dans la vrai vie les planètes tournent autour du soleil donc il faut donc essayer de coordoner l'emplacement de la planète avec la vitesse de la sonde. Ce jeu était amusant mais vraiment vraiment compliquer.
+Dans cette salle le visiteur est attendu de choisir un poste et d'attendre les instructions donner dans la vidéo. Ensuite, les visiteurs s'installent autour de la table ou l'on attend la suite. Après, lorsque le jeu est commencé, le but est de trouver dans la salle l'image correspondante à l'image sur l'écran une fois trouver on l'enregistre  à l'aide du bracelet et ensuite sur notre écran on voit des informations sur la photo qui nous explique se qu'on voit. Personnellement cette salle était une de mes préféré, car il fallait trouver les images et plus on en accumulait plus on en savait sur notre planète.
 
 
 ## Salle 6
@@ -127,10 +127,16 @@ La fabrication du banc et les 2 projecteur
 Dans cette sa le visiteur est attendu de prendre place sur le banc, prêt à écouter la vidéo qui va suivre.Dans la vidéo on fait un retour sur la mission et on nous présente les découvertes qui on été faite et les choses de la vie de tout les jours qui ont été découvert grace a la conquête de l'espace.
 
 # Ce qui m'a plu 
-Expérience en tant que telle m'a beaucoup plus. Moi qui est passionée par l'espace à trouver ça vraiment intéressent. Les instructions claires et pa nébuleuses. Aussi la notion d'apprentisage que sa offre est plutot agréable. Aussi le choix que le dispositif offre et le reste de ton parcours sois différent selon l'astre choisie au départ donc il y a beaucoup de variation. Aussi on a l'impression de vraiment participé à la recherche aussi le fait qu'on peut personnalisé notre sonde. Moi et mon amie on a choisie Neptune donc dans notre son on devait mettre le disque d'or et on pouvais choisir se qu'on voulais mettre dessus. Aussi un petit plus c'est que même les enfant qui savent pas lire peuvent participer avec peut d'aide d'un parent car les consigne sont présenter sous forme de vidéo et aussi c'est très instinctif. Et aussi les décors rende l'expérience très réaliste.
+Expérience en tant que telle m'a beaucoup plus. Moi qui suis passionnée par l'espace à trouver ça vraiment intéressant. Les instructions claires et pas nébuleuses. Aussi la notion d'apprentissage que ça offre est plutôt agréable. Aussi le choix que le dispositif offre et le reste de ton parcours sont différents selon l'astre choisi au départ donc il y a beaucoup de variation. Aussi on a l'impression de vraiment participé à la recherche aussi le fait qu'on peut personnalisé notre sonde. Moi et mon amie on a choisi Neptune donc dans notre son on devait mettre le disque d'or et on pouvait choisir ce qu'on voulait mettre dessus. Aussi un petit plus c'est que même les enfants qui ne savent pas lire peuvent participer avec peut d'aide d'un parent, car les consignes sont présentées sous forme de vidéo et aussi c'est très instinctif. Et aussi les décors rendent l'expérience très réaliste.
 # Aspect que je ne retiendrais pas 
-L'utilisation des bracelets est super intéressente mais c'était quand même dure de les utiliser car il fallait appuyer vraiment fort dessus et même la sa marchait pas toujours donc on avait toujours l'impression que notre bracelet fonctionnais plus.
+L'utilisation des bracelets est super intéressante, mais c'était quand même dur de les utiliser, car il fallait appuyer vraiment fort dessus et même la ça marchait pas toujours donc, on avait toujours l'impression que notre bracelet fonctionnait plus.
+
 # Lien avec les autres oeuvres de la session
 Lien avec l'oeuvre Écomarine des 3ème année. Le dispositif qu'elles ont créer servait aussi à en apprendre sur les mammifères marin représenter donc l'oeuvre à un but d'éduquer comme avec les missions du Cosmodome.
 # Référence
+[site internet du cosmodome](https://cosmodome.org/activites-familiale/missions-virtuelles/)
+
+[The Record ](https://www.therecord.com/life/travel/2012/01/06/travel-cosmodome-offers-a-virtual-trip-into-space.html?rf)
+
+[Quoi faire en famille ](https://quoifaireenfamille.com/fiche/musee-site-historique/cosmodome/)
 
