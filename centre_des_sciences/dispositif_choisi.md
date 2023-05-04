@@ -21,7 +21,7 @@ le dispositif est entourer de d'autre oeuvre mais à environ 1 mètre et quelque
 - Les plaquette de bois 
 - Le programme qui sert à faire apparaitre les infos sur l'écran
 ## Éléments 
-![](medias/centre_des_sciences_fil.jpg)
+<img src="media/centre_des_sciences_fil.jpg" width="500px"></img>
 - Les fils 
 
 ## Epérience vécu
