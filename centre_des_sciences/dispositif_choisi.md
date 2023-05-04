@@ -13,6 +13,7 @@ Le centre des sciences
 ## Type d'installation
 Intéractive 
 ## Fonction du dispositif
+<img src="medias/centre_des_sciences_plaquette.jpg.heic" width="500px"></img>
 ## Mise en espace
 le dispositif est entourer de d'autre oeuvre mais à environ 1 mètre et quelque de d'autre oeuvre.
 
@@ -21,7 +22,7 @@ le dispositif est entourer de d'autre oeuvre mais à environ 1 mètre et quelque
 - Les plaquette de bois 
 - Le programme qui sert à faire apparaitre les infos sur l'écran
 ## Éléments 
-<img src="media/centre_des_sciences_fil.jpg" width="500px"></img>
+<img src="medias/centre_des_sciences_fil.jpg" width="500px"></img>
 - Les fils 
 
 ## Epérience vécu
